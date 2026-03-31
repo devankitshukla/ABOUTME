@@ -18,12 +18,12 @@
 pythonclass DataProfessional:
     def __init__(self):
         self.name         = "Devankit Shukla"
-        self.location     = "Toronto, Canada 🇨🇦"
-        self.education    = "Computer Programming Diploma — Seneca College (2025)"
-        self.roles        = ["Data Analyst", "ML Engineer", "Business Intelligence"]
-        self.currently    = "Building NorthCart — a full-stack retail analytics case study"
-        self.stack        = ["Python", "SQL", "Power BI", "Scikit-learn", "TensorFlow"]
-        self.open_to      = "Entry-level Data/Analytics/ML roles in Toronto & GTA"
+    <br>self.location     = "Toronto, Canada 🇨🇦"
+        <br>self.education    = "Computer Programming Diploma — Seneca College (2025)"
+        <br>self.roles        = ["Data Analyst", "ML Engineer", "Business Intelligence"]
+        <br>self.currently    = "Building NorthCart — a full-stack retail analytics case study"
+        <br>self.stack        = ["Python", "SQL", "Power BI", "Scikit-learn", "TensorFlow"]
+        <br>self.open_to      = "Entry-level Data/Analytics/ML roles in Toronto & GTA"
 
   def ambition(self):
         return "I don't just analyze data — I turn it into decisions that matter."
