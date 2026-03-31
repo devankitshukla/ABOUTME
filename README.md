@@ -58,8 +58,8 @@ print(me.ambition())
 </div>
 
 📈 Skill Proficiency
-Data Analytics & SQL    ████████████████████░   90%
-Python & Pandas         ███████████████░░░░░░   72%
+<br>Data Analytics & SQL    ████████████████████░   90%
+<br>Python & Pandas         ███████████████░░░░░░   72%
 Power BI / Dashboards   ████████████████░░░░░   78%
 Machine Learning        ███████████████░░░░░░   72%
 Deep Learning (CNN)     █████████████░░░░░░░░   65%
