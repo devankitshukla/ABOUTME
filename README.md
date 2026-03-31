@@ -49,7 +49,7 @@ print(me.ambition())
 <img src = "https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
 <img src = "https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
 <img src = "https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white">
-☁️ Cloud & Tools
+<br>☁️ Cloud & Tools
 <img src = "https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 <img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src = "https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
