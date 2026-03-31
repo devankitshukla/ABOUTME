@@ -72,11 +72,11 @@
 
 <br>📊 GitHub Stats
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devankitshukla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-<img height="180em" src="https://streak-stats.demolab.com/?user=devankitshukla&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=devankitshukla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devankitshukla&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 </div>
 <div align="center">
-Show Image
+<img height="180em" src="https://streak-stats.demolab.com/?user=devankitshukla&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
 </div>
 
 🎯 Currently Learning
