@@ -70,20 +70,12 @@
 🚀 Project🛠️ Stack📌 What It Does🛒 NorthCart Retail AnalyticsSQL Power BI PythonEnd-to-end retail case study — 5K rows, KPI dashboards, business insights for a fictional Canadian retailer❤️ ECG Arrhythmia ClassifierTensorFlow CNN SMOTECNN model trained on MIT-BIH dataset with INT8 quantization for FPGA deployment📊 Sales Dashboard & InsightsPython MatplotlibInteractive KPI dashboard — revenue, profit, regional breakdown, top products
 </div>
 
-<br>📊 GitHub Stats
-<div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=devankitshukla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devankitshukla&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-</div>
 
-<div align="center">
-<img height="180em" src="https://streak-stats.demolab.com/?user=devankitshukla&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
-</div>>
-
-🎯 Currently Learning
+<br>🎯 Currently Learning
 <div align="center">
 ```
 🔥 This Week's Focus
+ <br> 
 ┌─────────────────────────────────────────────┐
 │  📊  Power BI DAX & Advanced Visuals        │
 │  🐍  Python for Data Analysis (Pandas++)    │
