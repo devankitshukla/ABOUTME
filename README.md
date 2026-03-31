@@ -15,9 +15,9 @@
 
 <!-- About Me Section -->
 🧠 About Me
-pythonclass DataProfessional:
-    def __init__(self):
-        self.name         = "Devankit Shukla"
+<br>pythonclass DataProfessional:
+   <br> def __init__(self):
+       <br> self.name         = "Devankit Shukla"
     <br>self.location     = "Toronto, Canada 🇨🇦"
         <br>self.education    = "Computer Programming Diploma — Seneca College (2025)"
         <br>self.roles        = ["Data Analyst", "ML Engineer", "Business Intelligence"]
@@ -25,12 +25,12 @@ pythonclass DataProfessional:
         <br>self.stack        = ["Python", "SQL", "Power BI", "Scikit-learn", "TensorFlow"]
         <br>self.open_to      = "Entry-level Data/Analytics/ML roles in Toronto & GTA"
 
-  def ambition(self):
-        return "I don't just analyze data — I turn it into decisions that matter."
+ <br> def ambition(self):
+    <br>    return "I don't just analyze data — I turn it into decisions that matter."
 
-me = DataProfessional()
-print(me.ambition())
-# Output: "I don't just analyze data — I turn it into decisions that matter."
+<br>me = DataProfessional()
+<br>print(me.ambition())
+<br># Output: "I don't just analyze data — I turn it into decisions that matter."
 
 🚀 Tech Stack & Skills
 <div align="center">
@@ -42,7 +42,7 @@ print(me.ambition())
 <img src ="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"> 
 <img src ="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 <img src ="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-🤖 Machine Learning & AI
+<br>🤖 Machine Learning & AI
 <img src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 <img src = "https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
 <img src = "https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
@@ -57,23 +57,23 @@ print(me.ambition())
 <img src = "https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 </div>
 
-📈 Skill Proficiency
+<br>📈 Skill Proficiency
 <br>Data Analytics & SQL    ████████████████████░   90%
 <br>Python & Pandas         ███████████████░░░░░░   72%
-Power BI / Dashboards   ████████████████░░░░░   78%
-Machine Learning        ███████████████░░░░░░   72%
-Deep Learning (CNN)     █████████████░░░░░░░░   65%
-Microsoft Azure         ████████░░░░░░░░░░░░░   40%
+<br>Power BI / Dashboards   ████████████████░░░░░   78%
+<br>Machine Learning        ███████████████░░░░░░   72%
+<br>Deep Learning (CNN)     █████████████░░░░░░░░   65%
+<br>Microsoft Azure         ████████░░░░░░░░░░░░░   40%
 
-🏗️ Featured Projects
+<br>🏗️ Featured Projects
 <div align="center">
 🚀 Project🛠️ Stack📌 What It Does🛒 NorthCart Retail AnalyticsSQL Power BI PythonEnd-to-end retail case study — 5K rows, KPI dashboards, business insights for a fictional Canadian retailer❤️ ECG Arrhythmia ClassifierTensorFlow CNN SMOTECNN model trained on MIT-BIH dataset with INT8 quantization for FPGA deployment📊 Sales Dashboard & InsightsPython MatplotlibInteractive KPI dashboard — revenue, profit, regional breakdown, top products
 </div>
 
-📊 GitHub Stats
+<br>📊 GitHub Stats
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devankitshukla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devankitshukla&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=devankitshukla&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF](https://streak-stats.demolab.com/?user=devankitshukla&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)"/>
 </div>
 <div align="center">
 Show Image
