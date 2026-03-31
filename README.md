@@ -75,6 +75,8 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=devankitshukla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devankitshukla&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 </div>
+
+
 <div align="center">
 <img height="180em" src="https://streak-stats.demolab.com/?user=devankitshukla&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
 </div>
@@ -94,9 +96,12 @@
 
 🌐 Connect With Me
 <div align="center">
-<img src ="https://linkedin.com/in/devankitshukla">
-<img src = "https://github.com/devankitshukla">
-<img src = "mailto:devankitshukla@gmail.com"> 
+<a herf = "https://linkedin.com/in/devankitshukla">
+ <img src ="[https://linkedin.com/in/devankitshukla](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)">
+</a>
+<a herf = "https://github.com/devankitshukla">
+  <img src = "https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 </div>
 
 <div align="center">
