@@ -76,12 +76,12 @@
 ```
 🔥 This Week's Focus
  <br> 
-┌─────────────────────────────────────────────┐
-│  📊  Power BI DAX & Advanced Visuals        │
-│  🐍  Python for Data Analysis (Pandas++)    │
-│  ☁️  Microsoft Azure Fundamentals (AZ-900)  │
-│  🤖  Model Deployment & MLOps Basics        │
-└─────────────────────────────────────────────┘
+<br>┌──────────────────────────────────────────────┐
+<br>│  📊  Power BI DAX & Advanced Visuals        |
+<br>│  🐍  Python for Data Analysis (Pandas++)    |
+<br>│  ☁️  Microsoft Azure Fundamentals (AZ-900)  |
+<br>│  🤖  Model Deployment & MLOps Basics        |
+<br>└──────────────────────────────────────────────┘
 ```
 </div>
 
