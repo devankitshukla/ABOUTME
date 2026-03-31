@@ -96,11 +96,11 @@
 
 🌐 Connect With Me
 <div align="center">
-<a herf = "https://linkedin.com/in/devankitshukla">
- <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href = "https://linkedin.com/in/devankitshukla">
+  <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a herf = "https://github.com/devankitshukla">
-  <img src = "https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<a href = "https://github.com/devankitshukla">
+    <img src = "https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </div>
 
