@@ -67,12 +67,16 @@
 
 <br>🏗️ Featured Projects
 <div align="center">
-🚀 Project🛠️ Stack📌 What It Does🛒 NorthCart Retail AnalyticsSQL Power BI PythonEnd-to-end retail case study — 5K rows, KPI dashboards, business insights for a fictional Canadian retailer❤️ ECG Arrhythmia ClassifierTensorFlow CNN SMOTECNN model trained on MIT-BIH dataset with INT8 quantization for FPGA deployment📊 Sales Dashboard & InsightsPython MatplotlibInteractive KPI dashboard — revenue, profit, regional breakdown, top products
+🚀 Project🛠️                      Stack📌                                                                   What It Does🛒 
+  
+<br> NorthCart Retail Analytics :- SQL Power BI Python :End-to-end retail case study — 5K rows, KPI dashboards, business insights for a fictional Canadian retailer
+<br>ECG Arrhythmia Classifier:- TensorFlow CNN SMOTE  :CNN model trained on MIT-BIH dataset with INT8 quantization for FPGA deployment
+<br>Sales Dashboard & Insights:- Python Matplotlib    :Interactive KPI dashboard — revenue, profit, regional breakdown, top products
 </div>
 
 
 <br>🎯 Currently Learning
-<div align="center">
+<div align="center
 ```
 🔥 This Week's Focus
  <br> 
