@@ -94,14 +94,14 @@ Show Image
 
 🏆 GitHub Trophies
 <div align="center">
-Show Image
+<img src = "https://github.com/ryo-ma/github-profile-trophy">
 </div>
 
 🌐 Connect With Me
 <div align="center">
-Show Image
-Show Image
-Show Image
+<img src ="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src = "">
 </div>
 
 <div align="center">
