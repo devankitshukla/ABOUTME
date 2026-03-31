@@ -102,7 +102,7 @@
 <div align="center">
 💡 My Data Philosophy
 
-"Without data, you're just another person with an opinion.
+<br>"Without data, you're just another person with an opinion.
 With the right data — you're the one making the call."
 
 <br/>
